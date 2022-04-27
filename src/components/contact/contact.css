@@ -1,0 +1,69 @@
+.contact-container {
+ position: relative;
+ display: flex;
+ flex-direction: column;
+ justify-content: flex-start;
+ align-items: flex-start;
+ min-height: 80vh;
+ margin-top: 100px;
+ padding: 30px;
+}
+
+.contact-container h1{
+ margin: 0 auto;
+ font-size: 22px;
+ font-family: 'Open Sans Condensed';
+ font-weight: 400;
+ color: var(--color-pri);
+}
+
+.contact-container .contact-links{
+ position: relative;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ width: 100%;
+ margin-top: 40px;
+}
+
+.contact-container .contact{
+ position: inherit;
+ height: 280px;
+ width: 30%;
+ background: rgba(0, 0, 0, 0.322);
+ border-radius: 20px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ transition: background .3s ease, transform .2s ease;
+}
+
+.contact-container .contact:hover{
+ background: rgba(255, 255, 255, 0.096);
+ transform: scale(1.1);
+}
+
+.contact-container .contact .icon{
+ position: relative;
+ font-size: 130px;
+}
+
+.contact-container .contact h2{
+ position: relative;
+ margin-top: 15px;
+ font-size: 21px;
+ font-weight: 500px;
+ display: flex;
+ flex-direction: column;
+ text-transform: capitalize;
+ font-family: 'Open Sans';
+ text-align: center;
+}
+
+.contact-container .contact h2 span{
+ font-size: 13px;
+ font-weight: 100;
+ margin-top: 3px;
+ color: rgb(202, 202, 202);
+}
