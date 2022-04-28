@@ -55,6 +55,17 @@
  background-position: center;
  border: 2px solid var(--color-sec-light);
 }
+
+.members-container .member .member-img4{
+ height: 300px;
+ width: 300px;
+ border-radius: 40px;
+ background: url(../props/img-7.jpg);
+ background-size: cover;
+ background-position: center;
+ border: 2px solid var(--color-sec-light);
+}
+
 .members-container .member .member-info{
  margin-left: 50px;
  font-family: 'Open Sans Condensed';
