@@ -1,4 +1,5 @@
 import './home.css';
+import React from 'react';
 import img from '../props/img5.webp';
 import Buttons from '../button/button';
 import { BsMouse } from 'react-icons/bs';
@@ -7,7 +8,7 @@ function Home() {
   return (
     <div id='home' className='container home-container'>
       <div className='logo'>
-        <div className='main-img'>
+        <div className='main-img active'>
           <span className='circle'></span>
           <span className='circle'></span>
           <span className='circle'></span>

@@ -34,6 +34,21 @@ const Members = () => {
         </div>
       </div>
 
+      <div className='member member-5'>
+        <div className='member-img5'></div>
+        <div className='member-info'>
+          <h1 className='name'>Product Add App</h1>
+          <h3 className='position'>PHP MYSQL</h3>
+          <h4 className='about'>Learn more about my project</h4>
+          <a
+            href='https://benitojuniordeveloper.herokuapp.com/'
+            className='contact-member'
+          >
+            <span>Learn More...</span>
+          </a>
+        </div>
+      </div>
+
       <div className='member member-1'>
         <div className='member-img1'></div>
         <div className='member-info'>
