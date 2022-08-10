@@ -4,6 +4,22 @@ const Members = () => {
   return (
     <div id='members' className='container members-container'>
       <h1 className='member-txt'>My Projects</h1>
+
+      <div className='member member-6'>
+        <div className='member-img6'></div>
+        <div className='member-info'>
+          <h1 className='name'>My First Portfolio</h1>
+          <h3 className='position'>HTML CSS</h3>
+          <h4 className='about'>Learn more about my portfolio</h4>
+          <a
+            href='https://benish.netlify.app/'
+            className='contact-member'
+          >
+            <span>Learn More...</span>
+          </a>
+        </div>
+      </div>
+
       <div className='member member-4'>
         <div className='member-img4'></div>
         <div className='member-info'>
