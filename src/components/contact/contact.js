@@ -10,7 +10,7 @@ function Contact() {
       <h1>Contact Me</h1>
       <div className='contact-links'>
         <a
-          href='https://www.linkedin.com/in/benito-ishimwe-ab902620b/'
+          href='www.linkedin.com/in/benito-ishimwe'
           className='contact youtube'
         >
           <AiOutlineLinkedin className='icon' />
@@ -25,7 +25,7 @@ function Contact() {
           </h2>
         </a>
         <a
-          href='https://www.instagram.com/benitoish/'
+          href='www.instagram.com/benitoish'
           className='contact youtube'
         >
           <AiOutlineInstagram className='icon' />
