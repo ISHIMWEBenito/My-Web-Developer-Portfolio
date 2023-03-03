@@ -6,14 +6,14 @@ const Members = () => {
       <h1 className='member-txt'>My Projects</h1>
 
       <div className='member member-6'>
-        <a href='https://benish.netlify.app/' className='contact-member'>
+        <a href='https://benish.netlify.app' className='contact-member'>
           <div className='member-img6'></div>
         </a>
         <div className='member-info'>
           <h1 className='name'>My First Portfolio</h1>
           <h3 className='position'>HTML CSS</h3>
           <h4 className='about'>Learn more about my portfolio</h4>
-          <a href='https://benish.netlify.app/' className='contact-member'>
+          <a href='https://benish.netlify.app' className='contact-member'>
             <span>Learn More...</span>
           </a>
         </div>
@@ -21,7 +21,7 @@ const Members = () => {
 
       <div className='member member-4'>
         <a
-          href='https://adventurousworld.netlify.app/'
+          href='https://adventurousworld.netlify.app'
           className='contact-member'
         >
           <div className='member-img4'></div>
@@ -31,7 +31,7 @@ const Members = () => {
           <h3 className='position'>React</h3>
           <h4 className='about'>Learn more about my project</h4>
           <a
-            href='https://adventurousworld.netlify.app/'
+            href='https://adventurousworld.netlify.app'
             className='contact-member'
           >
             <span>Learn More...</span>
@@ -41,7 +41,7 @@ const Members = () => {
 
       <div className='member member-2'>
         <a
-          href='https://benitoinhiskitchen.netlify.app/'
+          href='https://benitoinhiskitchen.netlify.app'
           className='contact-member'
         >
           <div className='member-img2'></div>
@@ -51,7 +51,7 @@ const Members = () => {
           <h3 className='position'>React</h3>
           <h4 className='about'>Learn more about my project</h4>
           <a
-            href='https://benitoinhiskitchen.netlify.app/'
+            href='https://benitoinhiskitchen.netlify.app'
             className='contact-member'
           >
             <span>Learn More...</span>
@@ -61,7 +61,7 @@ const Members = () => {
 
       <div className='member member-5'>
         <a
-          href='https://benitojuniordeveloper.herokuapp.com/'
+          href='https://benitojuniordeveloper.herokuapp.com'
           className='contact-member'
         >
           <div className='member-img5'></div>
@@ -71,7 +71,7 @@ const Members = () => {
           <h3 className='position'>PHP MYSQL</h3>
           <h4 className='about'>Learn more about my project</h4>
           <a
-            href='https://benitojuniordeveloper.herokuapp.com/'
+            href='https://benitojuniordeveloper.herokuapp.com'
             className='contact-member'
           >
             <span>Learn More...</span>
