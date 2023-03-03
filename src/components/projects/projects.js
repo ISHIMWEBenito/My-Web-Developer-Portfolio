@@ -48,7 +48,7 @@ const Members = () => {
         </a>
         <div className='member-info'>
           <h1 className='name'>Restaurant Website</h1>
-          <h3 className='position'>React</h3>
+          <h3 className='position'>Angular</h3>
           <h4 className='about'>Learn more about my project</h4>
           <a
             href='https://benitoinhiskitchen.netlify.app'
