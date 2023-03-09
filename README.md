@@ -3,4 +3,4 @@
 
 Code base
 
-Author: Benito Ishimwe
+Author: ISHIMWE - Benito
