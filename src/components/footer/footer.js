@@ -31,7 +31,7 @@ function Footer() {
         <a href='#'>
           <TiSocialYoutube className='social' />
         </a>
-        <a href='https://github.com/Benish-31'>
+        <a href='https://github.com/ISHIMWEBenito'>
           <TiSocialGithub className='social' />
         </a>
       </div>
