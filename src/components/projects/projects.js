@@ -11,7 +11,7 @@ const Members = () => {
         </a>
         <div className='member-info'>
           <h1 className='name'>My First Portfolio</h1>
-          <h3 className='position'>HTML CSS</h3>
+          <h3 className='position'>HTML CSS Bootstrap</h3>
           <h4 className='about'>Learn more about my portfolio</h4>
           <a href='https://benish.netlify.app' className='contact-member'>
             <span>Learn More...</span>
@@ -68,7 +68,7 @@ const Members = () => {
         </a>
         <div className='member-info'>
           <h1 className='name'>Product Add App</h1>
-          <h3 className='position'>PHP MYSQL</h3>
+          <h3 className='position'>HTML PHP MYSQL</h3>
           <h4 className='about'>Learn more about my project</h4>
           <a
             href='https://benitojuniordeveloper.herokuapp.com'
