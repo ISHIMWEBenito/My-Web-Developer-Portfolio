@@ -1,4 +1,4 @@
-## Launched my newly re-designed portfolio. Feel free to wander around!!!
+## Launched my newly re-designed Portfolio. Feel free to wander around!!!
 🌎 Website: https://benitoportifolio.onrender.com
 
 Code base
